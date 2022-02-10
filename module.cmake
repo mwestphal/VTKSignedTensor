@@ -1,4 +1,6 @@
 vtk_module(SignedTensor
+  LICENSE_FILES
+    LICENSE
   GROUPS
     StandAlone
   DEPENDS
